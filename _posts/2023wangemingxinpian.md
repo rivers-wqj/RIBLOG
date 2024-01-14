@@ -1,63 +1,4 @@
-
-    <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      [
-        ![](https://rivers-wqj.github.io/images/avatar.png?v=1701289755641)
-      ](https://rivers-wqj.github.io/)
-      [
-        <h1 class="site-title">rivers.wqj</h1>
-      ](https://rivers-wqj.github.io/)
-    </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
-      
-        
-          [
-            首页
-          ](file:///c:/)
-        
-      
-        
-          [
-            归档
-          ](file:///c:/archives)
-        
-      
-        
-          [
-            标签
-          ](file:///c:/tags)
-        
-      
-        
-          [
-            关于
-          ](file:///c:/post/about)
-        
-      
-    </div>
-  </div>
-</transition>
-
-
-      <div class="content-container">
-        <div class="post-detail">
-          
-            <div class="feature-container" style="background-image: url(&quot;https://github.com/rivers-wqj/Postcards/blob/main/2023%E6%98%8E%E4%BF%A1%E7%89%87%E5%B0%81%E9%9D%A2%E5%9B%BE_ly.jpg?raw=true&quot;);">
-            </div>
-          
-          ## 2023年和晚哥的明信片
+## 2023年和晚哥的明信片
           <div class="post-info post-detail-info">
             <span><i class="icon-calendar-outline"></i> 2023-07-27</span>
             
@@ -122,49 +63,6 @@
 ## 格拉纳达
 ![gr](https://github.com/rivers-wqj/Postcards/blob/main/ly/LY20231018.tiu510792w0.png?raw=true)  
 &#10;10月18日给晚寄了这张片，晚11月20日收到了，比想象中快很多。
-
-          </div>
-        </div>
-
-        
-          <div class="next-post">
-            [
-              <h3 class="post-title">
-                下一篇：高考8年后，我们4个小镇青年的现状
-              </h3>
-            ](https://rivers-wqj.github.io/post/gao-kao-8-nian-hou-wo-men-4-ge-xiao-zhen-qing-nian-de-xian-zhuang/)
-          </div>
-          
-      </div>
-
-      
-
-      <div class="site-footer">
-  <div class="slogan">Let's shoot for the moon and land among the stars</div>
-  <div class="social-container">
-    
-      
-        [
-          <i class="fab fa-github"></i>
-        ](https://github.com/rivers-wqj)
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  Powered by [Gridea](https://github.com/getgridea/gridea) | [RSS](https://rivers-wqj.github.io/atom.xml)
-</div>
-
-
-    </div>
-    
-
 
 
 
