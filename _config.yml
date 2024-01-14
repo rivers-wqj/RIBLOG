@@ -17,7 +17,7 @@
 title: LOST IN RIVERS
 email: river.wqj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An inarguably well-designed Jekyll theme.
+  Memoires in the mirror of world.
 baseurl: "/RiBlog" # the subpath of your site, e.g. /blog
 url: "https://rivers-wqj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
