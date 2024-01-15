@@ -9,10 +9,10 @@
   border: 0;
   font: 1em $font-family;
   padding: .5em;
-  color: $text-color;
+  color: #7e612c;
   text-align: center;
   &:focus {
-    outline: 1px dashed $text-color;
+    outline: 1px dashed #7e612c;
   }
 }
 
