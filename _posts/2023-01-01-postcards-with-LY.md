@@ -1,3 +1,8 @@
+---
+layout: post
+title: "2023年和晚哥的明信片"
+date: 2023-01-01
+---
 # 七月
 ## 武汉
 ![武汉](https://github.com/rivers-wqj/Postcards/blob/main/ly/LY_2023.7.23_%E6%AD%A6%E6%B1%89.65hfnhugi7b4.jpg?raw=true)  
